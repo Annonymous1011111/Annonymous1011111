@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Annonymous1011111
+- 👀 I’m interested in becoming a programmer
+- 🌱 I’m currently learning C++, Python, JavaScript and Kotlin
+- 💞️ I’m looking to collaborate on projects
